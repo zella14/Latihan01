@@ -18,4 +18,5 @@ CARA MEMBUAT REPOSITORY
 Dan tunggu beberapa saat untuk mendapatkan respon seperti dibawah ini:
 ![7](https://user-images.githubusercontent.com/46732968/51587045-07aa8980-1f12-11e9-89ad-812c5af1a397.jpg)
 7.Lalu buka browser github "latihan01" anda, dan refresh ulang. Jika muncul tampilan seperti gambar dibawah ini maka repository berhasil dibuat.
+![8](https://user-images.githubusercontent.com/46732968/51587050-0c6f3d80-1f12-11e9-947b-0d7701e515b2.png)
 
