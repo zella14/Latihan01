@@ -3,7 +3,7 @@ CARA MEMBUAT REPOSITORY
 
 
 
-1.Akses website http://github.com/. Akan muncul tampilan seperti dibawah ini. Dipojok kanan atas terdapat pilihan sign in dan sign up.Pilih sesuai kebutuhan,pilih sign in untuk yang sudah mempunyai akun Github dan pilih Sign up untuk membuat akun baru Github.
+1.Masuk broswer dan akses website http://github.com/. Akan muncul tampilan seperti dibawah ini. Dipojok kanan atas terdapat pilihan sign in dan sign up.Pilih sesuai kebutuhan,pilih sign in untuk yang sudah mempunyai akun Github dan pilih Sign up untuk membuat akun baru Github.
 ![1_li](https://user-images.githubusercontent.com/46732968/51588714-9372e480-1f17-11e9-9048-4cee67dace41.jpg)
 2.Karena disini saya sudah mempunyai akun maka saya memilih sign in, isi username or email address Github dan isi juga passwornya lalu klik sign in untuk masuk akun.
 ![screenshot 63 _li](https://user-images.githubusercontent.com/46732968/51588719-97066b80-1f17-11e9-8352-80c4d6624737.jpg)
@@ -13,7 +13,6 @@ CARA MEMBUAT REPOSITORY
 ![3](https://user-images.githubusercontent.com/46732968/51587027-feb9b800-1f11-11e9-9584-4e80ef7a12a8.jpg)
 Pilih creat repository dan akan muncul tampilan seperti dibawah ini :
 ![4](https://user-images.githubusercontent.com/46732968/51587032-011c1200-1f12-11e9-9b78-50bd4dfb9c08.png)
-Minimize tampilan browser github dan buka icon file explorer
 5.Minimize tampilan browser github dan buka icon file explorer.Buatlah folder baru untuk penempatan repository yang akan dibuat dan beri nama(Contoh:Pemrograman01). Jika folder sudah dibuat, klik kanan pada folder dan pilih Git Bash Here. Seperti yang ada pada gambar dibawah ini :
 ![5](https://user-images.githubusercontent.com/46732968/51587038-024d3f00-1f12-11e9-8287-1e590157d9a5.jpg)
 6.Pada tampilan Git Bash Here ketikan : mkdir latihan01->cd latihan01->git init->echo "# Latihan01" >> README.md->git add README.md->git commit -m "first commit"->git remote add origin https://github.com/zella14/Latihan01.git->git push -u origin master. Untuk melihat lebih detail bisa kita lihat pada pada gambar dibawah ini :
