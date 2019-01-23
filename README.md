@@ -1,7 +1,9 @@
 Cara membuat repository
 1.Akses website http://github.com/. 
-2.Login Github. Dipojok kakan atas terdapat pilihan sign in dan sign up.Pilih sesuai kebutuhan,pilih sign in untuk yang sudah mempunyai akun Github dan pilih Sign up untuk membuat akun baru Github.
+2.Akan muncul tampilan seperti dibawah ini. Dipojok kakan atas terdapat pilihan sign in dan sign up.Pilih sesuai kebutuhan,pilih sign in untuk yang sudah mempunyai akun Github dan pilih Sign up untuk membuat akun baru Github. Karena disini saya sudah mempunyai akun maka saya memilih sign in, lalu kliksign in untuk masuk akun.
+![1](https://user-images.githubusercontent.com/46732968/51587024-fb263100-1f11-11e9-8170-2f53a9213dc7.png)
 3.Masuk tampilan utama klik tanda (+) pojok kanan atas pilih New Repository.
+
 4.Pada "Repository name" beri nama (Contoh:Latihan01).
 5.Buka file explorer dan buatlah folder baru untuk penempatan repository yang akan dibuat dan beri nama(Contoh:Pemrograman01).
 6.Klik kanan pada folder yang telah dibuat, pilih Git Bash Here.
