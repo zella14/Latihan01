@@ -1,4 +1,8 @@
 Cara membuat repository
+
+
+
+
 1.Akses website http://github.com/. Akan muncul tampilan seperti dibawah ini. Dipojok kakan atas terdapat pilihan sign in dan sign up.Pilih sesuai kebutuhan,pilih sign in untuk yang sudah mempunyai akun Github dan pilih Sign up untuk membuat akun baru Github.
 ![1](https://user-images.githubusercontent.com/46732968/51587024-fb263100-1f11-11e9-8170-2f53a9213dc7.png)
 2.Karena disini saya sudah mempunyai akun maka saya memilih sign in, lalu klik sign in untuk masuk akun.
