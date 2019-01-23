@@ -3,7 +3,7 @@ CARA MEMBUAT REPOSITORY
 
 
 
-1.Masuk broswer dan akses website http://github.com/. Akan muncul tampilan seperti dibawah ini. Dipojok kanan atas terdapat pilihan sign in dan sign up.Pilih sesuai kebutuhan,pilih sign in untuk yang sudah mempunyai akun Github dan pilih Sign up untuk membuat akun baru Github.
+1.Masuk browser dan akses website http://github.com/. Akan muncul tampilan seperti dibawah ini. Dipojok kanan atas terdapat pilihan sign in dan sign up.Pilih sesuai kebutuhan,pilih sign in untuk yang sudah mempunyai akun Github dan pilih Sign up untuk membuat akun baru Github.
 ![1_li](https://user-images.githubusercontent.com/46732968/51588714-9372e480-1f17-11e9-9048-4cee67dace41.jpg)
 2.Karena disini saya sudah mempunyai akun maka saya memilih sign in, isi username or email address Github dan isi juga passwornya lalu klik sign in untuk masuk akun.
 ![screenshot 63 _li](https://user-images.githubusercontent.com/46732968/51588719-97066b80-1f17-11e9-8352-80c4d6624737.jpg)
