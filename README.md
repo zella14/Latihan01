@@ -6,6 +6,7 @@ Cara membuat repository
 3.Masuk tampilan utama klik tanda (+) pojok kanan atas pilih New Repository.
 ![2](https://user-images.githubusercontent.com/46732968/51587025-fceff480-1f11-11e9-9f45-0d3ebda93940.jpg)
 4.Pada "Repository name" beri nama (Contoh:Latihan01).
+![3](https://user-images.githubusercontent.com/46732968/51587027-feb9b800-1f11-11e9-9584-4e80ef7a12a8.jpg)
 5.Buka file explorer dan buatlah folder baru untuk penempatan repository yang akan dibuat dan beri nama(Contoh:Pemrograman01).
 6.Klik kanan pada folder yang telah dibuat, pilih Git Bash Here.
 7.Pada tampilan Git Bash Here ketikan : mkdir latihan01->cd latihan01->git init->echo "# Latihan01" >> README.md->git add README.md->git commit -m "first commit"->git remote add origin https://github.com/zella14/Latihan01.git->git push -u origin master. Untuk melihat lebih detail bisa kita lihat pada gambar nomor 6 dan tunggu respon yang akan muncul dilayar tampilan Git Bash Here seperti gambar nomor 7.
